@@ -10,5 +10,5 @@ const (
 )
 
 func AwesomeFunc() string {
-	return fmt.Sprintf("awesomeFunc: %d", MagicValue)
+	return fmt.Sprintf("awesomeFuncnewversion: %d", MagicValue)
 }
