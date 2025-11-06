@@ -1,4 +1,4 @@
-package multirepo
+package repo1
 
 import (
 	"fmt"
