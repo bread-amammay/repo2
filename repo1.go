@@ -1,4 +1,4 @@
-package repo1
+package repo2
 
 import (
 	"fmt"
